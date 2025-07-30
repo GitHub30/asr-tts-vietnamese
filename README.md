@@ -19,7 +19,13 @@ wget '[https://xs679698.xsrv.jp/zalo?input=Xin chào các bạn&speaker_id=1&spe
 
 ### speed
 
-0.8 0.9 1 1.1 1.2
+```yaml
+0.8
+0.9
+1.0
+1.1
+1.2
+```
 
 ## curl
 
