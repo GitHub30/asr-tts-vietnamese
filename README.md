@@ -8,14 +8,31 @@ wget '[https://xs679698.xsrv.jp/zalo?input=Xin chào các bạn&voice=1&speed=0.
 
 ### voice
 
-| Voice | Name | Gender | Location | Service | 
-| ----: | ---- | ------ | -------- | ------- | 
-| 4     |      | Male   | Northern | Zalo    | 
-| 3     |      | Male   | Southern | Zalo    | 
-| 2     |      | Female | Northern | Zalo    | 
-| 1     |      | Female | Southern | Zalo    | 
-| 5     |      | Female | Northern | Zalo    | 
-| 6     |      | Female | Southern | Zalo    | 
+| Voice          | Name         | Gender | Location | Service |
+| -------------- | ------------ | ------ | -------- | ------- |
+|              4 |              | Male   | Northern | Zalo    |
+|              2 |              | Female | Northern | Zalo    |
+|              5 |              | Female | Northern | Zalo    |
+|              3 |              | Male   | Southern | Zalo    |
+|              1 |              | Female | Southern | Zalo    |
+|              6 |              | Female | Southern | Zalo    |
+|    hn-quynhanh | Quỳnh Anh    | Female | Northern | Viettel |
+|     hn-thaochi | Thảo Chi     | Female | Northern | Viettel |
+|   hn-thanhtung | Thanh Tùng   | Male   | Northern | Viettel |
+|    hn-namkhanh | Nam Khánh    | Male   | Northern | Viettel |
+| hn-phuongtrang | Phương Trang | Female | Northern | Viettel |
+|     hn-thanhha | Thanh Hà     | Female | Northern | Viettel |
+| hn-thanhphuong | Thanh Phương | Female | Northern | Viettel |
+|    hn-tienquan | Tiến Quân    | Male   | Northern | Viettel |
+|    hue-maingoc | Mai Ngọc     | Female | Central  | Viettel |
+|    hue-baoquoc | Bảo Quốc     | Male   | Central  | Viettel |
+|     hcm-diemmy | Diễm My      | Female | Southern | Viettel |
+|   hcm-thuydung | Thùy Dung    | Female | Southern | Viettel |
+|       hn-leyen | Lê Yến       | Female | Southern | Viettel |
+|   hcm-phuongly | Phương Ly    | Female | Southern | Viettel |
+|   hcm-minhquan | Minh Quân    | Male   | Southern | Viettel |
+|  hcm-thuyduyen | Thùy Duyên   | Female | Southern | Viettel |
+
 
 ### speed
 
