@@ -13,10 +13,10 @@ wget '[https://xs679698.xsrv.jp/zalo?input=Xin chào các bạn&voice=hcm-diemmy
 | Voice          | Name         | Gender | Location | Service |
 | -------------- | ------------ | ------ | -------- | ------- |
 |              4 |              | Male   | Northern | Zalo    |
-|              2 |              | Female | Northern | Zalo    |
-|              5 |              | Female | Northern | Zalo    |
 |              3 |              | Male   | Southern | Zalo    |
+|              2 |              | Female | Northern | Zalo    |
 |              1 |              | Female | Southern | Zalo    |
+|              5 |              | Female | Northern | Zalo    |
 |              6 |              | Female | Southern | Zalo    |
 |    hn-quynhanh | Quỳnh Anh    | Female | Northern | Viettel |
 |     hn-thaochi | Thảo Chi     | Female | Northern | Viettel |
