@@ -2,11 +2,11 @@
 
 wget '[https://xs679698.xsrv.jp/zalo?input=Xin chào các bạn](<https://xs679698.xsrv.jp/zalo?input=Xin chào các bạn>)' -O audio.mp3
 
-wget '[https://xs679698.xsrv.jp/zalo?input=Xin chào các bạn&speaker_id=1&speed=0.8](<https://xs679698.xsrv.jp/zalo?input=Xin chào các bạn&speaker_id=1&speed=0.8>)' -O audio.mp3
+wget '[https://xs679698.xsrv.jp/zalo?input=Xin chào các bạn&voice=1&speed=0.8](<https://xs679698.xsrv.jp/zalo?input=Xin chào các bạn&voice=1&speed=0.8>)' -O audio.mp3
 
 ## params
 
-### speaker_id
+### voice
 
 ```yaml
 4: Northern man
