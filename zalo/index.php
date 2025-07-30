@@ -1,8 +1,8 @@
 <?php
 header('Access-Control-Allow-Origin: *');
-$input = $_GET['input']      ?? 'Xin Chào';
+$input = $_GET['input'] ?? 'Xin Chào';
 $voice = $_GET['voice'] ?? '6';
-$speed = $_GET['speed']      ?? '1';
+$speed = $_GET['speed'] ?? '1';
 
 
 $filename = md5($input . $voice . $speed) . '.mp3';
