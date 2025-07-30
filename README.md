@@ -1,4 +1,4 @@
-# asr-tts-vietnamese
+# Vietnamese Text-to-Speech API
 
 wget '[https://xs679698.xsrv.jp/zalo?input=Xin chào các bạn](<https://xs679698.xsrv.jp/zalo?input=Xin chào các bạn>)' -O audio.mp3
 
