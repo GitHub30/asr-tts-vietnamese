@@ -4,6 +4,8 @@ wget '[https://xs679698.xsrv.jp/zalo?input=Xin chào các bạn](<https://xs6796
 
 wget '[https://xs679698.xsrv.jp/zalo?input=Xin chào các bạn&voice=1&speed=0.8](<https://xs679698.xsrv.jp/zalo?input=Xin chào các bạn&voice=1&speed=0.8>)' -O audio.mp3
 
+wget '[https://xs679698.xsrv.jp/zalo?input=Xin chào các bạn&voice=hcm-diemmy](<https://xs679698.xsrv.jp/zalo?input=Xin chào các bạn&voice=hcm-diemmy>)' -O audio.mp3
+
 ## params
 
 ### voice
