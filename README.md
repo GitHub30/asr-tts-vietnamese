@@ -49,7 +49,6 @@ wget '[https://xs679698.xsrv.jp/zalo?input=Xin chào các bạn&voice=hcm-diemmy
 ## curl
 
 ```bash
-mkdir zalo && cd zalo
 wget https://github.com/ffbinaries/ffbinaries-prebuilt/releases/download/v6.1/ffmpeg-6.1-linux-64.zip && unzip ffmpeg-6.1-linux-64.zip
 
 
