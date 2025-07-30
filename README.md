@@ -59,3 +59,5 @@ https://ai.zalo.cloud/products/text-to-audio-converter
 ```bash
 curl https://viettelai.vn/tts/speech_synthesis -H Connection:keep-alive -H Content-Type:application/json --data '{"speed":1,"voice":"hcm-diemmy","text":"Xin chào bạn","tts_return_option":3,"without_filter":false}' -o output.mp3
 ```
+
+https://viettelai.vn/en/chuyen-giong-noi
