@@ -1,5 +1,9 @@
 # asr-tts-vietnamese
 
+wget '[https://xs679698.xsrv.jp/zalo/xinchao.mp3?input=Xin chào các bạn&speaker_id=1&speed=0.8](<https://xs679698.xsrv.jp/zalo/xinchao.mp3?input=Xin chào các bạn&speaker_id=1&speed=0.8>)' -o audio.mp3
+
+## curl
+
 ```bash
 mkdir zalo && cd zalo
 wget https://github.com/ffbinaries/ffbinaries-prebuilt/releases/download/v6.1/ffmpeg-6.1-linux-64.zip && unzip ffmpeg-6.1-linux-64.zip
