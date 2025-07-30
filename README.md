@@ -37,6 +37,8 @@ wget https://github.com/ffbinaries/ffbinaries-prebuilt/releases/download/v6.1/ff
 ./ffmpeg -i "$(curl https://ai.zalo.cloud/api/demo/v1/tts/synthesize -b zai_did=8k9uAj3FNiTevcSSryzXoYYo64d0o6V3AB4PHJ8q -H origin:https://ai.zalo.cloud -H referer:https://ai.zalo.cloud/products/text-to-audio-converter --data 'input=Xin+chào+bạn&speaker_id=6&speed=0.9&dict_id=0&quality=0' | jq -r .data.url)" output.mp3
 ```
 
+https://ai.zalo.cloud/products/text-to-audio-converter
+
 ```bash
 curl https://viettelai.vn/tts/speech_synthesis -H Connection:keep-alive -H Content-Type:application/json --data '{"speed":1,"voice":"hcm-diemmy","text":"Xin chào bạn","tts_return_option":3,"without_filter":false}' -o output.mp3
 ```
