@@ -1,4 +1,6 @@
 <?php
+header('Access-Control-Allow-Origin: *');
+
 $postFields = http_build_query([
     'input'      => $_GET['input']      ?? 'Xin Chào',
     'speaker_id' => $_GET['speaker_id'] ?? '6',
