@@ -8,14 +8,14 @@ wget '[https://xs679698.xsrv.jp/zalo?input=Xin chào các bạn&voice=1&speed=0.
 
 ### voice
 
-```yaml
-4: Northern man
-3: Southern man
-2: Northern woman
-1: Southern woman
-5: Northern women 2
-6: South women 2
-```
+| Voice | Name | Gender | Location | Service | 
+| ----- | ---- | ------ | -------- | ------- | 
+| 4     |      | Male   | Northern | Zalo    | 
+| 3     |      | Male   | Southern | Zalo    | 
+| 2     |      | Female | Northern | Zalo    | 
+| 1     |      | Female | Southern | Zalo    | 
+| 5     |      | Female | Northern | Zalo    | 
+| 6     |      | Female | Southern | Zalo    | 
 
 ### speed
 
