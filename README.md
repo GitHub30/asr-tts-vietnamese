@@ -8,17 +8,14 @@ wget '[https://xs679698.xsrv.jp/zalo?input=Xin chào các bạn&speaker_id=1&spe
 
 ### speaker_id
 
+```yaml
 4: Northern man
-
 3: Southern man
-
 2: Northern woman
-
 1: Southern woman
-
 5: Northern women 2
-
 6: South women 2
+```
 
 ### speed
 
