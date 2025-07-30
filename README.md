@@ -1,6 +1,7 @@
 # asr-tts-vietnamese
 
 wget '[https://xs679698.xsrv.jp/zalo/xinchao.mp3?input=Xin chào các bạn](<https://xs679698.xsrv.jp/zalo/xinchao.mp3?input=Xin chào các bạn>)' -o audio.mp3
+
 wget '[https://xs679698.xsrv.jp/zalo/xinchao.mp3?input=Xin chào các bạn&speaker_id=1&speed=0.8](<https://xs679698.xsrv.jp/zalo/xinchao.mp3?input=Xin chào các bạn&speaker_id=1&speed=0.8>)' -o audio.mp3
 
 ## curl
