@@ -9,7 +9,7 @@ wget '[https://xs679698.xsrv.jp/zalo?input=Xin chào các bạn&voice=1&speed=0.
 ### voice
 
 | Voice | Name | Gender | Location | Service | 
-| ----- | ---- | ------ | -------- | ------- | 
+| ----: | ---- | ------ | -------- | ------- | 
 | 4     |      | Male   | Northern | Zalo    | 
 | 3     |      | Male   | Southern | Zalo    | 
 | 2     |      | Female | Northern | Zalo    | 
