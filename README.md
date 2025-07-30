@@ -4,6 +4,21 @@ wget '[https://xs679698.xsrv.jp/zalo?input=Xin chào các bạn](<https://xs6796
 
 wget '[https://xs679698.xsrv.jp/zalo?input=Xin chào các bạn&speaker_id=1&speed=0.8](<https://xs679698.xsrv.jp/zalo?input=Xin chào các bạn&speaker_id=1&speed=0.8>)' -O audio.mp3
 
+## params
+
+### speaker_id
+
+4: Northern man
+3: Southern man
+2: Northern woman
+1: Southern woman
+5: Northern women 2
+6: South women 2
+
+### speed
+
+0.8 0.9 1 1.1 1.2
+
 ## curl
 
 ```bash
